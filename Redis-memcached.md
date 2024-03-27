@@ -16,7 +16,7 @@
 
 Установите и запустите memcached.
 
-![alt text](https://github.com/Anudora41/sbd-homeworksblob/main/too.png)
+![alt text](https://github.com/Anudora41/sbd-homeworks/blob/main/too.png)
 
 ---
 
@@ -24,7 +24,7 @@
 
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5. 
 
-![alt text](https://github.com/Anudora41/sbd-homeworksblob/main/tree.png)
+![alt text](https://github.com/Anudora41/sbd-homeworks/blob/main/tree.png)
 
 ---
 
@@ -32,8 +32,8 @@
 
 Запишите в Redis несколько ключей с любыми именами и значениями.
 
-![alt text](https://github.com/Anudora41/sbd-homeworksblob/main/chetre1.jpg)
+![alt text](https://github.com/Anudora41/sbd-homeworks/blob/main/chetre1.png)
 
-![alt text](https://github.com/Anudora41/sbd-homeworksblob/main/chetre2.jpg)
+![alt text](https://github.com/Anudora41/sbd-homeworks/blob/main/chetre2.png)
             
 ---
