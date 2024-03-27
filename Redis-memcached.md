@@ -32,8 +32,8 @@
 
 Запишите в Redis несколько ключей с любыми именами и значениями.
 
-![alt text](https://github.com/Anudora41/sbd-homeworks/blob/main/chetre1.png)
+![alt text](https://github.com/Anudora41/sbd-homeworks/blob/main/chetre1.jpg)
 
-![alt text](https://github.com/Anudora41/sbd-homeworks/blob/main/chetre2.png)
+![alt text](https://github.com/Anudora41/sbd-homeworks/blob/main/chetre2.jpg)
             
 ---
