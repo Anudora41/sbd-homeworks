@@ -65,8 +65,3 @@ $ rabbitmqctl cluster_status
 $ rabbitmqadmin get queue='hello'
 ```
 ![alt text](https://github.com/Anudora41/sbd-homeworks/blob/main/3.0.2.png)
-
-После чего попробуйте отключить одну из нод, желательно ту, к которой подключались из скрипта, затем поправьте параметры подключения в скрипте consumer.py на вторую ноду и запустите его.
-
-
----
